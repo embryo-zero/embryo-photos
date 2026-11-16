@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Photos
+
+**Embryo Photos** is Embryo-Zero's fork of [Pixelfed](https://github.com/pixelfed/pixelfed), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pixelfed.nyc3.cdn.digitaloceanspaces.com/logos/pixelfed-full-color-dark.svg">
